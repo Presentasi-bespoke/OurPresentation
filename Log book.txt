@@ -1,0 +1,70 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:Adobe Product Presentation
+Judul Topik:Pengenalan Produk Adobe
+Alamat Github:https://github.com/Presentasi-bespoke/OurPresentation
+Alamat Trello:https://trello.com/b/F9LLcl3n/tugas-tkppl
+Anggota 1:
+	Nama:Kelvin
+	NIM:12.1110651
+Anggota 2:
+	Nama:Juandy Hartanto
+	NIM:12.111.0669
+Anggota 3:
+	Nama:Roberto
+	NIM:12.111.0766
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Kelvin ( 121110651 )
+- Merancang Template awal untuk presentasi
+- Mempelajari cara menggunakan jade dan stylus pada bespoke
+- Mempelajari tentang perusahan Adobe
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+ Kelvin:
+1. -
+2. Hari ini saya membuat repository dan bespoke 
+3. Saya ada kendala di penggunaan git clone, git push, git pull, dll
+
+Juandy Hartanto:
+1.
+2.
+3.
+
+Roberto:
+1.
+2.
+3.
+
+27/5
+Daily Scrum
+ Kelvin:
+1. Semalam saya membuat repository dan bespoke 
+2. Hari ini saya mempelajari tentang pengeditan pada jade dan juga stylus
+3. -
+
+Juandy Hartanto:
+1.
+2.
+3.
+
+Roberto:
+1.
+2.
+3.

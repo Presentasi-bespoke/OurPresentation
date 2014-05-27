@@ -65,6 +65,6 @@ Juandy Hartanto:
 3.
 
 Roberto:
-1.
-2.
-3.
+1.-
+2.Memulai rancangan tampilan(layout) awal presentasi
+3.-

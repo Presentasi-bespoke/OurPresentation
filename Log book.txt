@@ -43,9 +43,9 @@ Daily Scrum
 3. Saya ada kendala di penggunaan git clone, git push, git pull, dll
 
 Juandy Hartanto:
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 Roberto:
 1.
@@ -60,9 +60,9 @@ Daily Scrum
 3. -
 
 Juandy Hartanto:
-1.
-2.
-3.
+1. -
+2. Hari ini saya mencari informasi mengenai perusahaan adobe
+3. -
 
 Roberto:
 1.-

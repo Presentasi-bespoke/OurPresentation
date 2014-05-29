@@ -28,7 +28,6 @@ Scrummaster: Kelvin ( 121110651 )
 
 Sprint 2:
 
-
 Sprint 3: 
 
 
@@ -95,8 +94,8 @@ Daily Scrum
 3. -
 
 Juandy Hartanto:
-1. -
-2. -
+1. Telah menentukan materi perusahaan yang akan dipresentasikan
+2. Mencoba dalam pengubahan dan pendemoan slide presentasi
 3. -
 
 Roberto:

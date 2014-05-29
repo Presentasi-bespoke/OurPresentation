@@ -1,0 +1,62 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'express' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 warn package.json hello-world-bespoke@0.0.0 No repository field.
+6 verbose readDependencies using package.json deps
+7 verbose cache add [ 'express', null ]
+8 verbose cache add name=undefined spec="express" args=["express",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: 'express',
+9 verbose parsed url   path: 'express',
+9 verbose parsed url   href: 'express' }
+10 silly lockFile f3c62de4-express express
+11 verbose lock express C:\Users\Sun Roberto\AppData\Roaming\npm-cache\f3c62de4-express.lock
+12 silly lockFile f3c62de4-express express
+13 silly lockFile f3c62de4-express express
+14 verbose addNamed [ 'express', '' ]
+15 verbose addNamed [ null, '*' ]
+16 silly lockFile 64a534c1-express express@
+17 verbose lock express@ C:\Users\Sun Roberto\AppData\Roaming\npm-cache\64a534c1-express.lock
+18 silly addNameRange { name: 'express', range: '*', hasData: false }
+19 verbose url raw express
+20 verbose url resolving [ 'https://registry.npmjs.org/', './express' ]
+21 verbose url resolved https://registry.npmjs.org/express
+22 info trying registry request attempt 1 at 17:32:19
+23 http GET https://registry.npmjs.org/express
+24 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND
+25 info trying registry request attempt 2 at 17:32:29
+26 http GET https://registry.npmjs.org/express
+27 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND
+28 info trying registry request attempt 3 at 17:33:29
+29 http GET https://registry.npmjs.org/express
+30 silly lockFile 64a534c1-express express@
+31 silly lockFile 64a534c1-express express@
+32 error network getaddrinfo ENOTFOUND
+32 error network This is most likely not a problem with npm itself
+32 error network and is related to network connectivity.
+32 error network In most cases you are behind a proxy or have bad network settings.
+32 error network
+32 error network If you are behind a proxy, please make sure that the
+32 error network 'proxy' config is set properly.  See: 'npm help config'
+33 error System Windows_NT 6.1.7600
+34 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "express"
+35 error cwd D:\Presentasi TKPPL\OurPresentation
+36 error node -v v0.10.26
+37 error npm -v 1.4.3
+38 error syscall getaddrinfo
+39 error code ENOTFOUND
+40 error errno ENOTFOUND
+41 verbose exit [ 1, true ]

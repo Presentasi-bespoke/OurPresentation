@@ -89,8 +89,8 @@ Roberto:
 29/5
 Daily Scrum
  Kelvin:
-1. - 
-2. -
+1. Telah memahami pemakaian github, node js dan lain lain 
+2. mempelajari tentang penggunaan jade dan stylus
 3. -
 
 Juandy Hartanto:

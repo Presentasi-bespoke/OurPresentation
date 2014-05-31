@@ -106,8 +106,8 @@ Roberto:
 30/5
 Daily Scrum
  Kelvin:
-1. -
-2. -
+1. Mempelajari penggunaan jade dan stylus
+2. Mencoba mengubah transition pada slide bespoke 
 3. -
 
 Juandy Hartanto:
@@ -118,4 +118,21 @@ Juandy Hartanto:
 Roberto:
 1.Memulai design page 4 dan 5 yang berisi preview Photoshop
 2.Memulai design page berikut nya dan mencari ide design 
+3.-
+
+31/5
+Daily Scrum
+ Kelvin:
+1. Mencoba mengubah penerapan transition baru pada bespoke
+2. Mempelajari css serta penggunaan css2stylus pada bespoke
+3. -
+
+Juandy Hartanto:
+1. -
+2. -
+3. -
+
+Roberto:
+1.-
+2.- 
 3.-

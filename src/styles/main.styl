@@ -54,7 +54,7 @@ article
     transform slide_transition_length slide_transition_easing,
     opacity slide_transition_length slide_transition_easing,
     background slide_transition_length slide_transition_easing
-  transform-origin: 50% 40% 0
+  transform-origin: 0% 100% 0
   backface-visibility: hidden
   display: flex
   flex-direction: column
@@ -76,11 +76,9 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
-
+  transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
-
+  transform: translate3d(50px, 0, -100px);
 
   @media print
     transform: none

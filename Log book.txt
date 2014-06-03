@@ -167,6 +167,6 @@ Juandy Hartanto:
 3. -
 
 Roberto:
-1. -
-2. -
+1. Mendesign layout dan mencari beberapa info tentang adobe creative cloud
+2. Mengubah semua image layout design menjadi file image *.PNG
 3. -

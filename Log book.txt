@@ -187,3 +187,39 @@ Roberto:
 1. Menconvert image di layout design menjadi file image *.PNG
 2. -
 3. -
+
+
+4/6
+Daily Scrum
+ Kelvin:
+1. -
+2. -
+3. -
+
+Juandy Hartanto:
+1. Menyelesaikan pengumpulan materi
+2. -
+3. -
+
+Roberto:
+1. Menconvert image di layout design menjadi file image *.PNG
+2. -
+3. -
+
+
+6/6
+Daily Scrum
+ Kelvin:
+1. Mencoba membuat halaman kedua dari presentasi
+2. telah siap membuat template pada index.jade untuk halaman kedua 
+3. -
+
+Juandy Hartanto:
+1. -
+2. -
+3. -
+
+Roberto:
+1. -
+2. -
+3. -

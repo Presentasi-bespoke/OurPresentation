@@ -1,17 +1,20 @@
-# Hello World
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+# Adobe
+merupakan sebuah perusahaan yang bergerak dalam bidang multimedia yang cukup ternama di dunia
+Beberapa produk dari adobe yakni : 
+1.  Adobe Illustrator							11. Adobe Muse
+2.  Adobe Photoshop								12. Adobe Bridge
+3.  Adobe Dreamweaver							13. Adobe SpeedGrade
+4.  Adobe Flash									14. Adobe Media Encoder
+5.  Adobe InDesign								15. Adobe Flash Builder
+6.  Adobe Acrobat								16. Adobe SoundBooth
+7.  Adobe After Effect							17. Adobe Prelude
+8.  Adobe Audition								18. Adobe Premiere
+9.  Adobe Firework								19. Adobe Lightroom
+10. Adobe Encore
 
-## View slides locally
-
-First, ensure you have the following installed:
-
-1. [Node.js](http://nodejs.org)
-2. [Bower](http://bower.io): `$ npm install -g bower`
-3. [Grunt](http://gruntjs.com): `$ npm install -g grunt-cli`
-
-Then, install dependencies and run the preview server:
-
-```bash
-$ npm install && bower install
-$ grunt server
-```
+Akan tetapi pada presentasi ini kami akan membahas 5 dari sekian banyak produk dari adobe yakni :
+1.  Adobe Illustrator
+2.  Adobe Photoshop
+3.  Adobe Dreamweaver
+4.  Adobe Flash
+5.  Adobe InDesign
